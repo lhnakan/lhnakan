@@ -15,14 +15,14 @@
   - AWS tools
   - Redis
 
-:book: I’m currently reading:
+### :book: I’m currently reading:
   - **Refactoring: Improving the Design of Existing Code** by **Martin Fowler**
 
 
 
 ### 📫 How to reach me:
   - **nakandakarelucas@gmail.com**
-  - **[Linkedin](www.linkedin.com/in/lucas-nakandakare)**
+  - **[Linkedin](https://www.linkedin.com/in/lucas-nakandakare/)**
 <!--
 **lhnakan/lhnakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
