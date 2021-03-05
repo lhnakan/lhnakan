@@ -5,13 +5,13 @@
 
 > I always liked to build and repair, alied to learn new things make me found myself in programming career
 
-🔭 I’m currently developing and praticing with:
+### 🔭 I’m currently developing and praticing with:
   - NodeJS
   - ReactJS
   - Jest
   - PostgreSQL
 
-🌱 I’m currently learning:
+### 🌱 I’m currently learning:
   - AWS tools
   - Redis
 
