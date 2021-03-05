@@ -3,7 +3,7 @@
 ## Passionate and curious developer looking to improve and learning new technologies 👋
 
 
-> I always liked to build and repair, alied to learn new things make me found myself in programming career
+> I always liked to build and repair, alied to constantly learning new things makes me found myself in programming career
 
 ### 🔭 I’m currently developing and praticing with:
   - NodeJS
