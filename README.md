@@ -16,8 +16,13 @@ I always liked to build and repair, alied to learn new things make me found myse
   - Redis
 
 :book: I’m currently reading:
-  - Refactoring: Improving the Design of Existing Code by **Martin Fowler**
+  - **Refactoring**: Improving the Design of Existing Code by **Martin Fowler**
 
+
+
+### 📫 How to reach me:
+  - **nakandakarelucas@gmail.com**
+  - **[Linkedin]**(www.linkedin.com/in/lucas-nakandakare)
 <!--
 **lhnakan/lhnakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
