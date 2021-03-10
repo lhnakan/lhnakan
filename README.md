@@ -1,6 +1,6 @@
-# Hello, I'm Lucas Nakandakare!
+# Hello, I'm Lucas Nakandakare 👋
 
-## Passionate and curious developer looking to improve and learning new technologies 👋
+## Passionate and curious developer looking to improve and learning new technologies!
 
 
 > I always liked to build and repair, alied to constantly learning new things makes me found myself in programming career
